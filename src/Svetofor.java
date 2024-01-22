@@ -4,7 +4,7 @@ public class Svetofor {
         if (signal.equals("red")) {
             System.out.println("Остановиться!");
         } else if (signal.equals("yellow")) {
-            System.out.println("Подождать");
+            System.out.println("Подождать!");
         } else {
             System.out.println("Ехать");
         }
